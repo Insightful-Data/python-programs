@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Padmaja Dubba</h1>
 <h3 align="center">A sage data analyst</h3>
 
+<img align="right" width="400" src="blob:https://web.whatsapp.com/2684a4fe-993e-4c28-98e1-8ce4783c255f">
+
 - 🔭 I’m currently working on **Statistical Data Analysis using Python**
 
 - 🌱 I’m currently learning **Advanced Python, SQL and Data science**
