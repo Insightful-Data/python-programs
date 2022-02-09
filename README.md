@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Padmaja Dubba</h1>
 <h3 align="center">A sage data analyst</h3>
 
-<img align="right" width="400" src="blob:https://web.whatsapp.com/2684a4fe-993e-4c28-98e1-8ce4783c255f">
+<img align="right" width="400" src="https://assets.website-files.com/5d2b950d9ea87fc61f0c1f3e/5d55d3f19a649a41ddb5b1fd_os_0021_19.png">
 
 - 🔭 I’m currently working on **Statistical Data Analysis using Python**
 
